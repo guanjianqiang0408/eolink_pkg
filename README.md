@@ -27,6 +27,9 @@ nginx 1.14.1
 安装docker
 
 使用docker安装mysql
+```bash
+参见: https://blog.csdn.net/weixin_43956484/article/details/116499061
+```
 
 安装java1.8
 
