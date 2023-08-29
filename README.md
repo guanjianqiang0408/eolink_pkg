@@ -60,5 +60,5 @@ nohup java -jar eolinker_os-4.0.jar &
 访问测试：
 
 http://ip:port/eolinker_os/index.html
+![image](https://github.com/guanjianqiang0408/eolink_pkg/assets/103730408/e397cdfd-1438-45e5-ac92-037b7da716c5)
 
-![image-20230829144035442](C:\Users\v_gjqguan\AppData\Roaming\Typora\typora-user-images\image-20230829144035442.png)
