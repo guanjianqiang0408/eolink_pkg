@@ -23,8 +23,14 @@ nginx 1.14.1
 ## 部署说明
 
 安装nginx
+```bash
+参见： https://zhuanlan.zhihu.com/p/109257078
+```
 
 安装docker
+```bash
+参见： https://www.cnblogs.com/Liyuting/p/17022739.html
+```
 
 使用docker安装mysql
 ```bash
@@ -32,6 +38,9 @@ nginx 1.14.1
 ```
 
 安装java1.8
+```bash
+参见： https://blog.csdn.net/qq_42582489/article/details/104429639
+```
 
 创建mysql数据库
 
@@ -40,6 +49,7 @@ create database enlinker_os default charset utf8
 ```
 
 执行eolinker_os.sql初始化数据库
+
 
 启动eolinker服务
 
